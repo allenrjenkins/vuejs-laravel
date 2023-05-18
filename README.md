@@ -1,1 +1,1 @@
-# vuejs-laravel
+# laravel-vue-demo
